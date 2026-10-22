@@ -1,5 +1,4 @@
-.vs/
-bin/
-obj/
-*.user
-*.suo
+echo .vs/> .gitignore
+echo bin/>> .gitignore
+echo obj/>> .gitignore
+echo *.user>> .gitignore
