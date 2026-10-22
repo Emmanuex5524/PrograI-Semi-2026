@@ -42,3 +42,14 @@ C:\Users\HERNANDEZ\Desktop\parcialComputo2\parcialComputo2\parcialComputo2\obj\D
 C:\Users\HERNANDEZ\Desktop\parcialComputo2\parcialComputo2\parcialComputo2\obj\Debug\parcialComputo2.csproj.CoreCompileInputs.cache
 C:\Users\HERNANDEZ\Desktop\parcialComputo2\parcialComputo2\parcialComputo2\obj\Debug\parcialComputo2.exe
 C:\Users\HERNANDEZ\Desktop\parcialComputo2\parcialComputo2\parcialComputo2\obj\Debug\parcialComputo2.pdb
+C:\Users\HERNANDEZ\source\PrograI-Semi-2026\parcialComputo2\parcialComputo2\bin\Debug\parcialComputo2.exe.config
+C:\Users\HERNANDEZ\source\PrograI-Semi-2026\parcialComputo2\parcialComputo2\bin\Debug\parcialComputo2.exe
+C:\Users\HERNANDEZ\source\PrograI-Semi-2026\parcialComputo2\parcialComputo2\bin\Debug\parcialComputo2.pdb
+C:\Users\HERNANDEZ\source\PrograI-Semi-2026\parcialComputo2\parcialComputo2\obj\Debug\parcialComputo2.csproj.AssemblyReference.cache
+C:\Users\HERNANDEZ\source\PrograI-Semi-2026\parcialComputo2\parcialComputo2\obj\Debug\parcialComputo2.frm_usuario.resources
+C:\Users\HERNANDEZ\source\PrograI-Semi-2026\parcialComputo2\parcialComputo2\obj\Debug\parcialComputo2.login.resources
+C:\Users\HERNANDEZ\source\PrograI-Semi-2026\parcialComputo2\parcialComputo2\obj\Debug\parcialComputo2.Properties.Resources.resources
+C:\Users\HERNANDEZ\source\PrograI-Semi-2026\parcialComputo2\parcialComputo2\obj\Debug\parcialComputo2.csproj.GenerateResource.cache
+C:\Users\HERNANDEZ\source\PrograI-Semi-2026\parcialComputo2\parcialComputo2\obj\Debug\parcialComputo2.csproj.CoreCompileInputs.cache
+C:\Users\HERNANDEZ\source\PrograI-Semi-2026\parcialComputo2\parcialComputo2\obj\Debug\parcialComputo2.exe
+C:\Users\HERNANDEZ\source\PrograI-Semi-2026\parcialComputo2\parcialComputo2\obj\Debug\parcialComputo2.pdb

@@ -1,18 +1,5 @@
-# Carpeta interna de Visual Studio (la que te daba el error)
 .vs/
-
-# Archivos compilados
 bin/
 obj/
-
-# Archivos de usuario
 *.user
 *.suo
-*.userprefs
-
-# Otros generados por Visual Studio
-*.cache
-*.log
-TestResults/
-packages/
-.vscode/

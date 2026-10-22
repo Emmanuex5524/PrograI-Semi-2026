@@ -115,6 +115,7 @@
             // 
             // btnVerClave
             // 
+            this.btnVerClave.BackgroundImage = global::parcialComputo2.Properties.Resources._65172_jpg;
             this.btnVerClave.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnVerClave.Location = new System.Drawing.Point(377, 171);
             this.btnVerClave.Name = "btnVerClave";
