@@ -10,7 +10,7 @@ namespace WebApplication1.Controllers.Models
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-            ModelBuilder.Entity<Alumno>().Haskey(a => a.idAlumno); 
+            modelBuilder.Entity<Alumno>().HasKey(a => a.idAlumno); 
         }
     }
 }
